@@ -48,7 +48,7 @@ async function appendJob() {
         const fields = line.split(",");
         output.push(fields);
       });
-      //*[@id="jobTitle"]
+      
       var i = 0;
       
       for await (const lines of output) {
