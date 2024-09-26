@@ -43,9 +43,7 @@ Ce projet vise à automatiser deux tâches quotidiennes effectuées par Jane, un
 ## Vidéo Démo
 
 
-
-
-https://github.com/user-attachments/assets/006a8a54-f8d0-4675-b481-95e4dc7f3c6a
+![démo](https://github.com/user-attachments/assets/1df4992f-1014-4a62-8cc6-808045cb0d45)
 
 
 
