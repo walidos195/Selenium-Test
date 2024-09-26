@@ -38,5 +38,6 @@ Ce projet vise à automatiser deux tâches quotidiennes effectuées par Jane, un
 2. Modifiez les chemins du fichier CSV et les identifiants du portail d'emploi dans le script.
 3. Exécutez le script Selenium pour automatiser les tâches.
 
+![image](https://github.com/user-attachments/assets/077698f1-b712-41a0-8b95-e61a3de4cdea)
 
 SRC :  https://rpaexercise.aisingapore.org
