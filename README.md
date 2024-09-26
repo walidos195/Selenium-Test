@@ -40,5 +40,12 @@ Ce projet vise à automatiser deux tâches quotidiennes effectuées par Jane, un
 
 ![image](https://github.com/user-attachments/assets/c20db60b-2499-4354-9c33-db2eb6d3ab7f)
 
+## Vidéo Démo
+
+
+
+https://github.com/user-attachments/assets/cd1409b4-799e-4bff-8432-d2bbd65f1132
+
+
 
 SRC :  https://rpaexercise.aisingapore.org
