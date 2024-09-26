@@ -26,6 +26,7 @@ async function login() {
     finally {
       //await driver.quit();
     }
+    
     resolve();
   });
   
