@@ -35,7 +35,7 @@ Ce projet vise à automatiser deux tâches quotidiennes effectuées par Jane, un
 - Le score de pré-sélection du candidat doit être supérieur à 70.
 ## Utilisation
 1. Clonez ce projet et installez les dépendances nécessaires (Selenium, etc.).
-2. Modifiez les chemins du fichier CSV et les identifiants du portail d'emploi dans le script.
+2. Modifiez les chemins du fichier CSV.
 3. Exécutez le script Selenium pour automatiser les tâches.
 
 ![image](https://github.com/user-attachments/assets/c20db60b-2499-4354-9c33-db2eb6d3ab7f)
